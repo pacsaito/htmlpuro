@@ -31,3 +31,7 @@ p{
 body {
   font-family: Gamtext, sans-serif;
 }
+
+table, th, td {
+  background-color: rgba(201, 212, 223, 0.267);
+  border: 1px solid rgb(0, 0, 0);
