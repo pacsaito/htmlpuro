@@ -1,32 +1,31 @@
 body {
-  background-image: url(img/fundo2.png);
+  background-image: url(img/fundo4.jpg);
+  background-size: cover; /* A imagem cobre todo o elemento */
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
-  color: indianred;
+  color: white;
   text-align: center;
 }
 
 h2 {
-  color:indianred;
+  color:white;
 }
 
 li {
-  color:darkblue;
+  color:whitesmoke;
   font-size: 20px;
 }
 
 p{
   font-size: 18px;
+  color:whitesmoke
 }
 
 
-.joao-saito-fez-isso {
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 20px;
-  border-radius: 10px;
-  border: 2px solid black;
-}
+
 
 body {
   font-family: Gamtext, sans-serif;
@@ -35,3 +34,4 @@ body {
 table, th, td {
   background-color: rgba(201, 212, 223, 0.267);
   border: 1px solid rgb(0, 0, 0);
+}
